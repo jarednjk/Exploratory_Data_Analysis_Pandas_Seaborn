@@ -1,0 +1,1 @@
+Utilised Python and frameworks like Pandas, Matplotlib, and Seaborn to do an exploratory data analysis on the world population to gain insights on growth rate, density for each continent and country between 1970 and 2022.
